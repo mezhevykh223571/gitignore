@@ -1,14 +1,20 @@
 *.log
 
+.idea
+.xml
+.DS_Store
+node_modules
+
 wp-content/cache/
 wp-content/upgrade/
 wp-content/uploads/
-wp-content/plugins/hello.php
 wp-content/mu-plugins/
+wp-content/plugins/hello.php
 wp-content/wp-cache-config.php
 wp-content/advanced-cache.php
 wp-content/backup-db/
 wp-content/backups/
+wp-content/w3tc-config/
 wp-config.php
 wp-admin/install.php
 
